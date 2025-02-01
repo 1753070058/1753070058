@@ -1,4 +1,4 @@
-# Chào mừng đến với Repository của Huỳnh Nhật Tứ Quý! 👋
+# Chào mừng đến với Repository của Huỳnh Nhật Tú Quyên! 👋
 
 Xin chào! Mình là **Huỳnh Nhật Tứ Quý** – một người đam mê công nghệ và luôn khao khát học hỏi, nghiên cứu code. Repository này được tạo ra nhằm chia sẻ kiến thức, kinh nghiệm cũng như các dự án mẫu cho những người mới bắt đầu hoặc những ai đang muốn tìm hiểu sâu hơn về lập trình và các bài kiểm tra (xét nghiệm) code.
 
